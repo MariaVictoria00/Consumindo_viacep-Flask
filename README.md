@@ -35,3 +35,8 @@ export FLASK_APP=main.py
 ```
 python3 -m flask run
 ```
+# Telas do projeto:
+ 
+ ## Tela Inicial
+ 
+![t1](https://user-images.githubusercontent.com/65103555/120591664-88df8880-c40a-11eb-8e7c-56b75ff8cfd5.png)
