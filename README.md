@@ -40,3 +40,9 @@ python3 -m flask run
  ## Tela Inicial
  
 ![t1](https://user-images.githubusercontent.com/65103555/120591664-88df8880-c40a-11eb-8e7c-56b75ff8cfd5.png)
+
+ ## Tela cadastro
+
+![t2](https://user-images.githubusercontent.com/65103555/120592028-1fac4500-c40b-11eb-9e7e-2a983d5181ed.png)
+
+ ## Tela Consulta cep
