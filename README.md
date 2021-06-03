@@ -46,3 +46,5 @@ python3 -m flask run
 ![t2](https://user-images.githubusercontent.com/65103555/120592028-1fac4500-c40b-11eb-9e7e-2a983d5181ed.png)
 
  ## Tela Consulta cep
+ 
+ ![t3](https://user-images.githubusercontent.com/65103555/120592005-1622dd00-c40b-11eb-8e95-f2f0d29efda7.png)
