@@ -40,9 +40,8 @@ def cadastro():
     email=request.form.get('email')
     cep=request.form.get('cep')
     
-    # if nome and sobrenome and email and cep:
     try:
-            ## TODO buscar informações de endereço da API do ViaCEP (https://viacep.com.br/)
+           ## TODO buscar informações de endereço da API do ViaCEP (https://viacep.com.br/)
             r= requests.get('https://viacep.com.br/ws//{}/json/'.format(cep))
             dados_json=r.json()
 
